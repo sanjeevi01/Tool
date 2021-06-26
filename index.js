@@ -17,7 +17,7 @@ scrape({
     console.log("An error ocurred", err); 
 }); 
 
-// But first , do:
+// first , do:
 // npm install website-scraper
 
 // Create one index.js file and put the below code in it( name can be anything)
